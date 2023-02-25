@@ -1,0 +1,99 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="94" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="django-rest-framework" />
+            <item index="1" class="java.lang.String" itemvalue="Django" />
+            <item index="2" class="java.lang.String" itemvalue="certifi" />
+            <item index="3" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="4" class="java.lang.String" itemvalue="asgiref" />
+            <item index="5" class="java.lang.String" itemvalue="packaging" />
+            <item index="6" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="7" class="java.lang.String" itemvalue="pytz" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="urllib3" />
+            <item index="10" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="11" class="java.lang.String" itemvalue="django_filters" />
+            <item index="12" class="java.lang.String" itemvalue="rest_framework" />
+            <item index="13" class="java.lang.String" itemvalue="Pillow" />
+            <item index="14" class="java.lang.String" itemvalue="p" />
+            <item index="15" class="java.lang.String" itemvalue="polib" />
+            <item index="16" class="java.lang.String" itemvalue="django-rosetta" />
+            <item index="17" class="java.lang.String" itemvalue="parler" />
+            <item index="18" class="java.lang.String" itemvalue="django" />
+            <item index="19" class="java.lang.String" itemvalue="numpy" />
+            <item index="20" class="java.lang.String" itemvalue="environs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E302" />
+          <option value="W292" />
+          <option value="E722" />
+          <option value="E501" />
+          <option value="E265" />
+          <option value="E303" />
+          <option value="E721" />
+          <option value="E712" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="type.with_ui" />
+          <option value="app.models.Movie.objects" />
+          <option value="app.models.Actor.objects" />
+          <option value="app.models.Comment.objects" />
+          <option value="blog.models.taggit" />
+          <option value="online_academy_v2.app.models.Speciality.*" />
+          <option value="online_academy_v2.app.models.Course.objects" />
+          <option value="online_academy_v2.app.models.Task.id" />
+          <option value="app.models.Speciality.objects" />
+          <option value="app.models.Course.objects" />
+          <option value="app.models.Module.objects" />
+          <option value="app.models.Lesson.objects" />
+          <option value="app.models.LessonPart.objects" />
+          <option value="app.models.Teacher.objects" />
+          <option value="app.models.Task.objects" />
+          <option value="app.models.News.objects" />
+          <option value="app.models.Author.objects" />
+          <option value="rest_framework.generics.APIView" />
+          <option value="api.models.Author.objects" />
+          <option value="api.models.News.*" />
+          <option value="movies.views.rest_pandas" />
+          <option value="app.models.Task.id" />
+          <option value="handlers.users.anketa.state" />
+          <option value="Contact_Application.contacts.*" />
+          <option value="loader.dp" />
+          <option value="loader.bot" />
+          <option value="utils.photo_link" />
+          <option value="utils.remove_backround" />
+          <option value="utils.remove_background" />
+          <option value="utils.db_api" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
